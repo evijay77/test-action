@@ -1,5 +1,5 @@
 #!/bin/sh -l
 
-sudo apt-get install matrix
+sudo apt-get install cmatrix
 
-matrix
+cmatrix
